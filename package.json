@@ -1,0 +1,24 @@
+{
+  "name": "techdt.la-mvw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timfulmer/techdt.la-mvw.git"
+  },
+  "author": "timfulmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timfulmer/techdt.la-mvw/issues"
+  },
+  "homepage": "https://github.com/timfulmer/techdt.la-mvw#readme",
+  "dependencies": {
+    "mongoose": "^4.0.5",
+    "sails-mongo": "^0.11.2",
+    "waterline": "^0.10.24"
+  }
+}
